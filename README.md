@@ -1,4 +1,4 @@
-# Portfolio Website — Ajay & Aryan
+# Portfolio Website — Aryan
 
 [![Live on Vercel](https://img.shields.io/badge/Live%20Demo-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-website-aryan-ca03.vercel.app/)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -6,7 +6,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-A modern, responsive portfolio for a creative duo — **Ajay** (Video Editor & Motion Graphics Artist) and **Aryan** (Full-Stack Web Developer). The site showcases their skills, services and featured work across video production and web development.
+A modern, responsive portfolio website by **Aryan** (Full-Stack Web Developer). The site showcases skills, services and featured work across video production and web development.
 
 ## 🔗 Live Demo
 
@@ -17,7 +17,7 @@ The site is deployed on **Vercel** with continuous deployment — every push to 
 ## ✨ Features
 
 - **Hero section** — bold intro with "View Our Work" and "Watch Showreel" calls to action
-- **About / The Duo** — introduces both team members, their roles and values
+- **About / The Duo** — introduces the team, roles and values
 - **Skills & Expertise** — tools and technologies used by the team
 - **Web Development** — services and the tech stack used to build digital products
 - **Video Editing** — visual storytelling and motion graphics services
